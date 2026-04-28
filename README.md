@@ -43,4 +43,4 @@ This project shows how a portfolio can still look beautiful and professional wit
 ## 🌷 Thank You
 
 Thanks for checking out this project!  
-Feel free to explore and get inspired ✨ with My project
+Feel free to explore and get inspired ✨ with My project https://aishwaryaa-j.github.io/portfolio-simple-website/
